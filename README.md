@@ -31,3 +31,13 @@ Comillas vs Apóstrofes: Se confirmó que ' y " son intercambiables, pero no se 
 
 Case Sensitivity: Se reafirmó que print es la instrucción correcta y cualquier variación como Print o PRINT resultará en un NameError.
 
+
+
+# Seccion 2 - LAB  Literales de Python - Cadenas
+\": Esto le dice a Python: "No cierres el comando, simplemente dibuja una comilla doble en la pantalla".
+
+\n: Es el salto de línea para que cada palabra aparezca debajo de la anterior.
+
+La lógica: Para obtener tres comillas juntas en el output ("""), necesitas escribir \"\"\" en el código.
+
+
